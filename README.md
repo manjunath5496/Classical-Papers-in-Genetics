@@ -434,20 +434,20 @@ Simplification of Mendelian Formulae</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(228).pdf" style="text-decoration:none;">Application For Support Of An Experimental Investigation Of Mendel's Principles Of Heredity In Animals And Plants</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(229).pdf" style="text-decoration:none;">Opportunistic Decoding with Timely Correction for Simultaneous Translation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(229).pdf" style="text-decoration:none;">Simplicity Versus Adequacy in Mendelian Formulae</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(230).pdf" style="text-decoration:none;">Hard-Coded Gaussian Attention for Neural Machine Translation</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(230).pdf" style="text-decoration:none;">Concerning the law of segregation of hybrids</a></li>  
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(231).pdf" style="text-decoration:none;">
-ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a></li>
+The Relation of Mendelism to Mutation and Evolution </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(232).pdf" style="text-decoration:none;">Quantifying Attention Flow in Transformers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(232).pdf" style="text-decoration:none;">A Diagram Of Heredity</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(233).pdf" style="text-decoration:none;">Improving Non-autoregressive Neural Machine Translation with Monolingual Data</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(234).pdf" style="text-decoration:none;">On the Inference Calibration of Neural Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(235).pdf" style="text-decoration:none;">On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(236).pdf" style="text-decoration:none;">Using Context in Neural Machine Translation Training Objectives</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(237).pdf" style="text-decoration:none;">Evaluating Explanation Methods for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(234).pdf" style="text-decoration:none;">Direct proof through non-disjunction that the sex-linked genes of Drosophila are borne by the X-chromosome</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(235).pdf" style="text-decoration:none;">Mendelian Proportions in a Mixed Population  </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(236).pdf" style="text-decoration:none;">Complementary Factors for Eye Color in Drosophila.</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(237).pdf" style="text-decoration:none;">Mendel's Laws and Their Probable Relations to Intra-Racial Heredity</a></li>
 
 </ul>
