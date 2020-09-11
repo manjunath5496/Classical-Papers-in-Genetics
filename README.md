@@ -129,7 +129,7 @@ Sex-linked Inheritance in Drosophila </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(70).pdf" style="text-decoration:none;">The Mutants of the Extreme Left End of the Second Chromosome of DROSOPHILA MELANOGASTER</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(71).pdf" style="text-decoration:none;">Genes and chemical reactions in Neurospora</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(72).pdf" style="text-decoration:none;">The Mechanism of Mosaic Formation in Drosophila</a></li> 
  
@@ -164,7 +164,7 @@ Sex-linked Inheritance in Drosophila </a></li>
 General, Group and Special Size Factors</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(90).pdf" style="text-decoration:none;">Nucleic acid synthesis in the study of the genetic code</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(91).pdf" style="text-decoration:none;">Artificial transmutation of the gene </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(92).pdf" style="text-decoration:none;">Inbreeding and Linkage </a></li>
@@ -200,7 +200,7 @@ Population</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(105).pdf" style="text-decoration:none;">Studies of a Size Cross in Mice, II</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(106).pdf" style="text-decoration:none;">A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(106).pdf" style="text-decoration:none;">The genetic code</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(107).pdf" style="text-decoration:none;">A Mathematical Theory of Natural and Artificial Selection Part X. Some Theorems on Artificial Selection</a></li> 
   
