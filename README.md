@@ -4,12 +4,12 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(1).pdf" style="text-decoration:none;">Forest Rescoring: Faster Decoding with Integrated Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(1).pdf" style="text-decoration:none;">A Lecture on Mendelism</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(2).pdf" style="text-decoration:none;"> Studies on Size Inheritance in Nicotiana</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(3).pdf" style="text-decoration:none;">Mutations of OENOTHERA SUAVEOLENS Desf</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(4).pdf" style="text-decoration:none;">Memoirs: Karyokinesis and its Relation to the Process of Fertilization</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
