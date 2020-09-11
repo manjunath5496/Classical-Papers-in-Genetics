@@ -221,7 +221,7 @@ Population</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(114).pdf" style="text-decoration:none;">The Results of Crosses between Inbred Strains of Guinea Pigs, Differing in Number of Digits</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(115).pdf" style="text-decoration:none;">The Y Chromosome of Drosophila Pseudoobscura</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(116).pdf" style="text-decoration:none;">Evaluating Gender Bias in Machine Translation</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(116).pdf" style="text-decoration:none;">YEAST AND CANCER</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(117).pdf" style="text-decoration:none;">Variations of Linkage in Rats and Mice</a></li>  
    
@@ -231,7 +231,7 @@ Population</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(120).pdf" style="text-decoration:none;">Factors and Unit Characters in Mendelian Heredity</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(121).pdf" style="text-decoration:none;">Self-Attentional Models for Lattice Inputs</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(121).pdf" style="text-decoration:none;">The Double Helix: A Personal Account of the Discovery of the Structure of DNA</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(122).pdf" style="text-decoration:none;">Deficiency </a></li>  
      
@@ -295,7 +295,7 @@ Chromosomes and Associative Inheritance</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(155).pdf" style="text-decoration:none;">Systems of Mating. III. Assortative Mating Based on Somatic Resemblance</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(156).pdf" style="text-decoration:none;">A Possible Mendelian Explanation For A Type Of Inheritance Apparently Non-Mendelian In Nature</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(157).pdf" style="text-decoration:none;">Mutant Races Derived from OENOTHERA LAMARCKIANA SEMIGIGAS</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(157).pdf" style="text-decoration:none;">Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(158).pdf" style="text-decoration:none;">HEREDITY: The Nature of "Unit" Characters</a></li>
    
  
