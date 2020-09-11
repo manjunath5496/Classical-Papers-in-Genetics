@@ -165,43 +165,47 @@ General, Group and Special Size Factors</a></li>
   
   
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(91).pdf" style="text-decoration:none;">Artificial transmutation of the gene </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(92).pdf" style="text-decoration:none;">Inbreeding and Linkage </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(93).pdf" style="text-decoration:none;"> 
+Is the Arrangement of the Genes in the Chromosome Linear?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(94).pdf" style="text-decoration:none;">
+Drosophila Miranda, a New Species</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(95).pdf" style="text-decoration:none;">Differentiable Sampling with Flexible ReferenceWord Order for Neural Machine Translation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(95).pdf" style="text-decoration:none;">
+Are Species Realities or Concepts Only?</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(96).pdf" style="text-decoration:none;">Revisiting Adversarial Autoencoder for UnsupervisedWord Translation with Cycle Consistency and Improved Training</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(96).pdf" style="text-decoration:none;">An Essay on the Principle of
+Population</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(97).pdf" style="text-decoration:none;">An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(97).pdf" style="text-decoration:none;">The Inheritance of the Mutant Character "Vortex"</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(98).pdf" style="text-decoration:none;">Positional Encoding to Control Output Sequence Length</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(98).pdf" style="text-decoration:none;">Chromosome Fusion and Speciation in Drosophilae</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(99).pdf" style="text-decoration:none;">MASS: Masked Sequence to Sequence Pre-training for Language Generation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(99).pdf" style="text-decoration:none;">Crossing over in the X Chromosomes of Triploid Females of DROSOPHILA MELANOGASTER</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(100).pdf" style="text-decoration:none;">Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(100).pdf" style="text-decoration:none;">Crossover Modifiers in the Third Chromosome of DROSOPHILA MELANOGASTER</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(101).pdf" style="text-decoration:none;">Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(101).pdf" style="text-decoration:none;">The Standard Errors of Chromosome Distances and Coincidence</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(102).pdf" style="text-decoration:none;">Deep Residual Output Layers for Neural Language Generation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(102).pdf" style="text-decoration:none;">A New Method for the Study of Chromosome Aberrations and the Plotting of Chromosome Maps in Drosophila Melanogaster</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(103).pdf" style="text-decoration:none;">Sparse Sequence-to-Sequence Models </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(103).pdf" style="text-decoration:none;">10 years of heredity </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(104).pdf" style="text-decoration:none;">When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(104).pdf" style="text-decoration:none;">Genetic Studies on DROSOPHILA SIMULANS. II. Sex-Linked Group of Genes</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(105).pdf" style="text-decoration:none;">Adaptive Attention Span in Transformers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(105).pdf" style="text-decoration:none;">Studies of a Size Cross in Mice, II</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(106).pdf" style="text-decoration:none;">A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(107).pdf" style="text-decoration:none;">Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(107).pdf" style="text-decoration:none;">A Mathematical Theory of Natural and Artificial Selection Part X. Some Theorems on Artificial Selection</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(108).pdf" style="text-decoration:none;">CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(108).pdf" style="text-decoration:none;">A Proof That Crossing over Involves an Exchange of Segments between Homologous Chromosomes</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(109).pdf" style="text-decoration:none;">Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned</a></li>  
    
