@@ -58,38 +58,38 @@ The Theory of the Gene</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(30).pdf" style="text-decoration:none;">On the Genetics of Subnormal Development of the Head (Otocephaly) in the Guinea Pig</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(31).pdf" style="text-decoration:none;">Experiments on Plant Hybridization</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(32).pdf" style="text-decoration:none;">Some Physiological Effects of Radium Rays</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(33).pdf" style="text-decoration:none;">The Morphology of the Third Chromosome in the Salivary Gland of Drosophila Melanogaster and a New Cytological Map of This Element</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(34).pdf" style="text-decoration:none;">Polyploidy in DROSOPHILA MELANOGASTER with Two Attached X Chromosomes</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(35).pdf" style="text-decoration:none;">Studies in Spermatogenesis (Part 2) </a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(36).pdf" style="text-decoration:none;"> Non-Disjunction as Proof of the Chromosome Theory of Heredity</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(42).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(37).pdf" style="text-decoration:none;">The Variability of Crossing over in Maize </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(38).pdf" style="text-decoration:none;">A Mutation of the Guinea Pig, Tending to Restore the Pentadactyl Foot When Heterozygous, Producing a Monstrosity When Homozygous</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(39).pdf" style="text-decoration:none;">
+Charles Darwin and the Mutation Theory</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(40).pdf" style="text-decoration:none;">Mendelism</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(41).pdf" style="text-decoration:none;">A Closed X Chromosome in Drosophila Melanogaster</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(42).pdf" style="text-decoration:none;">Small Deficiencies and the Problem of Genetic Units in the Giant Chromosomes</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(43).pdf" style="text-decoration:none;">Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(44).pdf" style="text-decoration:none;">SEQ2SEQ-VIS : A Visual Debugging Tool for Sequence-to-Sequence Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(45).pdf" style="text-decoration:none;">A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(43).pdf" style="text-decoration:none;">Tricolor Inheritance. I. the Tricolor Series in Guinea-Pigs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(44).pdf" style="text-decoration:none;">The Inheritance of Sickle-Cell Anaemia in Man</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(45).pdf" style="text-decoration:none;">On the Genetics of the Spotted Pattern of the Guinea Pig</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(46).pdf" style="text-decoration:none;">Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(46).pdf" style="text-decoration:none;">Induction of Mutations by High Temperature in Drosophila</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(47).pdf" style="text-decoration:none;">Independent Genes in Mice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(48).pdf" style="text-decoration:none;">Genetical and Cytological Proof of Somatic Elimination of the Fourth Chromosome in DROSOPHILA MELANOGASTER</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(49).pdf" style="text-decoration:none;">Heterosis</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(50).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(50).pdf" style="text-decoration:none;">An Analysis of Variability in Number of Digits in an Inbred Strain of Guinea Pigs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(51).pdf" style="text-decoration:none;">The Order of the Genes C, Sh and Wx in Zea Mays with Reference to a Cytologically Known Point in the Chromosome</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(52).pdf" style="text-decoration:none;">Tricolor Inheritance II The Basset Hound </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
  
