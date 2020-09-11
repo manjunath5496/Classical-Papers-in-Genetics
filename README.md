@@ -320,7 +320,7 @@ The Constitution of the Hereditary Material </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(167).pdf" style="text-decoration:none;">
 The Relation of Albinism to Body Size in Mice</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(168).pdf" style="text-decoration:none;">Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(168).pdf" style="text-decoration:none;">Genetics of the bacterial cell</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(169).pdf" style="text-decoration:none;">A Spontaneous Somatic Exchange between Non-Homologous Chromosomes in Drosophila Melanogaster</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(170).pdf" style="text-decoration:none;">Further Data on the Variation of the Y Chromosome in Drosophila Pseudoobscura</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(171).pdf" style="text-decoration:none;">A Further Study of the so-Called Mutation at the Bar Locus of Drosophila</a></li>                              
@@ -346,7 +346,7 @@ Breeding Experiments with Rats </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(184).pdf" style="text-decoration:none;">
 The Centenary of Gregor Mendel and of Francis Galton </a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(185).pdf" style="text-decoration:none;">On the Distribution of Mutant Characters among the Chromosomes of OENOTHERA LAMARCKIANA</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(185).pdf" style="text-decoration:none;">The Identification of Genes Controlling Development in Flies and Fishes</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(186).pdf" style="text-decoration:none;">On the Distribution of Mutant Characters among the Chromosomes of OENOTHERA LAMARCKIANA</a></li>
                              
@@ -359,7 +359,7 @@ The Centenary of Gregor Mendel and of Francis Galton </a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(191).pdf" style="text-decoration:none;">Pure Strains as Artifacts of Breeding</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(192).pdf" style="text-decoration:none;">Lipschitz Constrained Parameter Initialization for Deep Transformers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(192).pdf" style="text-decoration:none;">DNA SEQUENCING AND GENE STRUCTURE</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(193).pdf" style="text-decoration:none;">A cytological Basis for the Mendelian Laws</a></li>
  
@@ -392,7 +392,7 @@ The Accessory Chromosome: Sex Determinant? </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(206).pdf" style="text-decoration:none;">On the Supposed Antagonism of Mendelian to Biometric Theories of Heredity</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(207).pdf" style="text-decoration:none;">A Correlation of Cytological and Genetical Crossing-Over in Zea Mays</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(208).pdf" style="text-decoration:none;">Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(208).pdf" style="text-decoration:none;">G Proteins and Regulation of Adenylyl Cyclase</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(209).pdf" style="text-decoration:none;">On the law which has regulated the introduction of new species</a></li>
@@ -416,7 +416,7 @@ Simplification of Mendelian Formulae</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(217).pdf" style="text-decoration:none;">Hybridisation and cross-breeding as a method of scientific investigation</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(218).pdf" style="text-decoration:none;">The incidence of alkaptonuria: a study in chemical individuality</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(219).pdf" style="text-decoration:none;">Notes on the accessory chromosome </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(219).pdf" style="text-decoration:none;">A receptor-mediated pathway for cholesterol homeostasis </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(220).pdf" style="text-decoration:none;">Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation</a></li>
   
   
