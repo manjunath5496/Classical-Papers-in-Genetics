@@ -423,7 +423,7 @@ Simplification of Mendelian Formulae</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(221).pdf" style="text-decoration:none;">On Hieracium Hybrids Obtained by Artificial Fertilisation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(222).pdf" style="text-decoration:none;">Concerning Artificial Crossing in Pisum Sativum</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(223).pdf" style="text-decoration:none;">Simultaneous Translation Policies: From Fixed to Adaptive</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(223).pdf" style="text-decoration:none;">Determination of Nucleotide Sequences in DNA</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(224).pdf" style="text-decoration:none;"> The Chromosomes in Relation to the Determination of Sex in Insects </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(225).pdf" style="text-decoration:none;">Mendel's Principles of Heredity and the Maturation of the Germ-Cells</a></li> 
   
@@ -444,7 +444,7 @@ The Relation of Mendelism to Mutation and Evolution </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(232).pdf" style="text-decoration:none;">A Diagram Of Heredity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(233).pdf" style="text-decoration:none;">Improving Non-autoregressive Neural Machine Translation with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(233).pdf" style="text-decoration:none;">Dissections and reconstructions of genes and chromosomes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(234).pdf" style="text-decoration:none;">Direct proof through non-disjunction that the sex-linked genes of Drosophila are borne by the X-chromosome</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(235).pdf" style="text-decoration:none;">Mendelian Proportions in a Mixed Population  </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(236).pdf" style="text-decoration:none;">Complementary Factors for Eye Color in Drosophila.</a></li>
