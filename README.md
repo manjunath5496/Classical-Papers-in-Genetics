@@ -15,7 +15,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(7).pdf" style="text-decoration:none;">Genetic Variability, Twin Hybrids and Constant Hybrids, in a Case of Balanced Lethal Factors</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(8).pdf" style="text-decoration:none;"> Are "Progressive" Mutations Produced by X-Rays? </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(9).pdf" style="text-decoration:none;">Genetic Variability, Twin Hybrids and Constant Hybrids, in a Case of Balanced Lethal Factors</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(9).pdf" style="text-decoration:none;">The relation of genetics to physiology and medicine</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(10).pdf" style="text-decoration:none;">The Genetic Basis of Truncate Wing, — an Inconstant and Modifiable Character in Drosophila</a></li>                              
@@ -41,7 +41,7 @@ The Theory of the Gene</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(21).pdf" style="text-decoration:none;">Crossing over and Gene Rearrangement in Flowering Plants</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(22).pdf" style="text-decoration:none;">Sex Linkage in Man</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(23).pdf" style="text-decoration:none;">A View of Genetics</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(24).pdf" style="text-decoration:none;">The Theory of Multiple-strand Crossing Over</a></li>
