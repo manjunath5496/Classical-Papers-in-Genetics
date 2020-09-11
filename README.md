@@ -321,14 +321,14 @@ The Constitution of the Hereditary Material </a></li>
 The Relation of Albinism to Body Size in Mice</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(168).pdf" style="text-decoration:none;">Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(169).pdf" style="text-decoration:none;">Deep Equilibrium Models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(170).pdf" style="text-decoration:none;">The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(171).pdf" style="text-decoration:none;">Context-Aware Monolingual Repair for Neural Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(172).pdf" style="text-decoration:none;">Simpler and Faster Learning of Adaptive Policies for Simultaneous Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(173).pdf" style="text-decoration:none;">Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(169).pdf" style="text-decoration:none;">A Spontaneous Somatic Exchange between Non-Homologous Chromosomes in Drosophila Melanogaster</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(170).pdf" style="text-decoration:none;">Further Data on the Variation of the Y Chromosome in Drosophila Pseudoobscura</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(171).pdf" style="text-decoration:none;">A Further Study of the so-Called Mutation at the Bar Locus of Drosophila</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(172).pdf" style="text-decoration:none;">A Sex Difference in Linkage in Rats and Mice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(173).pdf" style="text-decoration:none;">Aphorisms</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(174).pdf" style="text-decoration:none;">Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(175).pdf" style="text-decoration:none;">Jointly Learning to Align and Translate with Transformer Models</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(174).pdf" style="text-decoration:none;">Complete Linkage in the Second Chromosome of the Male of Drosophila</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(175).pdf" style="text-decoration:none;">Development of Eye Colors in Drosophila: Production and Release of cn<sup>+</sup> Substance by the Eyes of Different Eye Color Mutants</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(176).pdf" style="text-decoration:none;">Investigating Multilingual NMT Representations at Scale</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(177).pdf" style="text-decoration:none;">Multi-Granularity Self-Attention for Neural Machine Translation</a></li> 
