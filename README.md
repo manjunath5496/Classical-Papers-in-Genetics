@@ -427,12 +427,12 @@ Simplification of Mendelian Formulae</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(224).pdf" style="text-decoration:none;"> The Chromosomes in Relation to the Determination of Sex in Insects </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(225).pdf" style="text-decoration:none;">Mendel's Principles of Heredity and the Maturation of the Germ-Cells</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(226).pdf" style="text-decoration:none;">Character-Level Translation with Self-attention</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(226).pdf" style="text-decoration:none;">Problems of Heredity as a subject for Horticultural Investigation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(227).pdf" style="text-decoration:none;">Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(227).pdf" style="text-decoration:none;">On A Modified Mendelian Ratio Among Yellow Mice</a></li> 
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(228).pdf" style="text-decoration:none;">Evaluating Robustness to Input Perturbations for Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(228).pdf" style="text-decoration:none;">Application For Support Of An Experimental Investigation Of Mendel's Principles Of Heredity In Animals And Plants</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Classical-Papers-in-Genetics/blob/master/gene(229).pdf" style="text-decoration:none;">Opportunistic Decoding with Timely Correction for Simultaneous Translation</a></li>  
   
